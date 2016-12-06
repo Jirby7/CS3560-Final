@@ -6,3 +6,9 @@ int main()
 {
 	
 }
+
+countLine(char * pName)
+{
+	
+}
+
