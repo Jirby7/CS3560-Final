@@ -7,8 +7,13 @@ int main()
 	
 }
 
-countLine(char * pName)
+void countLine(char * pName)
 {
 	
 }
 
+
+void countChar(char * pName)
+{
+	
+}
